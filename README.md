@@ -1,6 +1,6 @@
 # Terraform Webserver
 
-Create a webserver and a database and deploy them to GCP using Terraform.
+Create a webserver and a database and deploy the docker containers to GCP using Terraform.
 
 ## Database
 
